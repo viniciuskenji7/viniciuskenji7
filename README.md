@@ -15,14 +15,12 @@
 	
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.gif" alt="😁" width="32" height="32"></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - Full-Stack, porém, mais Front-end
 - Trabalhando na SVMA - Secretaria do Verde e Meio Ambiente
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -36,10 +34,7 @@
 </p>
 
 <br>
-<br>
-
 -----
-
 <br>
 
 
@@ -54,14 +49,10 @@
 
 
 </div>
-
-<br>
-<br>
 <br>
 
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32"></picture>
@@ -90,17 +81,12 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
 <div align='center'>
 
 ## <b>✨Carpe Diem...</b>
 
 </div>
-<br>
-<br>
-<br>
 <br>
 
 ---
