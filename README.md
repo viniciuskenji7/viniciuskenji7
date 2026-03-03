@@ -2,7 +2,7 @@
 <h1 align="center"><b>Olá, eu sou o Vinicius Kenji </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  [!(https://readme-typing-svg.demolab.com/?lines=Software+Engineer,;Análise+e+Desenvolvimento+de+Sistemas,;Amante+de+Xadrez,;Música,;Filosofia+e+Arte;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Análise+e+Desenvolvimento+de+Sistemas;Amante+de+Xadrez;Música;Filosofia+e+Arte)](https://git.io/typing-svg)
 </p>
 
 
@@ -28,9 +28,9 @@
 <br>
 
 <p align="center">
-
-    [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=viniciuskenji7&layout=donut-vertical)](https://github.com/Pranesh-2005/github-readme-stats)
-
+  <a href="https://github.com/Pranesh-2005/github-readme-stats">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=viniciuskenji7&layout=donut-vertical" />
+  </a>
 </p>
 
 <br>
