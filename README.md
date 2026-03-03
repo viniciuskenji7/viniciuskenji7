@@ -2,9 +2,9 @@
 <h1 align="center"><b>Olá, eu sou o Vinicius Kenji </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Análise+e+Desenvolvimento+de+Sistemas;Amante+de+Xadrez;Música;Filosofia+e+Arte" alt="Typing SVG" align="center"/>
-  </a>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=30&amp;duration=2800&amp;pause=900&amp;color=9370DB&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Software+Engineer;Análise+e+Desenvolvimento+de+Sistemas;Amante+de+Xadrez;Música;Filosofia+e+Arte" />
+</p>
 </p>
 
 
