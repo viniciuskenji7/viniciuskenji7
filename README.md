@@ -38,9 +38,6 @@
   <a href="https://github.com/Pranesh-2005/github-readme-stats">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=viniciuskenji7&layout=donut-vertical" />
   </a>
-  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=viniciuskenji7&show_icons=true&theme=midnight-purple" />
-  </a>
 </p>
 
 ## Onde me encontrar
