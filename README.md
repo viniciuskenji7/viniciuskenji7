@@ -1,94 +1,45 @@
+# Ola! Eu sou o Vinicius Kenji ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-<h1 align="center"><b>Olá, eu sou o Vinicius Kenji </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=30&amp;duration=2800&amp;pause=900&amp;color=9370DB&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Software+Engineer;Análise+e+Desenvolvimento+de+Sistemas;Amante+de+Xadrez;Música;Filosofia+e+Arte" />
-</p>
-</p>
+## Sobre mim
 
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Fatec Ipiranga.
+- 💼 Estagiando em Desenvolvimento na SVMA - Secretaria do Verde e Meio Ambiente.
+- 🌱 Aprendendo mais sobre Larável, Typescript e ReactJS.
 
-<br>
+## Minhas Skills
 
+**Aplicações**
 
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![Nextjs](https://img.shields.io/badge/-Next-333333?style=flat&logo=nextdotjs)
+![VueJS](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-	
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.gif" alt="😁" width="32" height="32"></picture> **About me**
+**Utilidades**
 
-<br>
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-- Full-Stack, porém, mais Front-end
-- Trabalhando na SVMA - Secretaria do Verde e Meio Ambiente
+**DevOps**
 
-<br>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+**Metodologias Ágeis**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-<p align="center">
-  <a href="https://github.com/Pranesh-2005/github-readme-stats">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=viniciuskenji7&layout=donut-vertical" />
-  </a>
-</p>
+<br/>
 
-<br>
------
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-[![Vinicius Kenji's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=viniciuskenji7&show_icons=true&theme=midnight-purple)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=viniciuskenji7)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-
-</div>
-<br>
-
------
-
-<br>
-
-## <b> Let's Connect..!</b><picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32"></picture>
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/vinicius-kenji-dos-santos-enoki-097528265/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  viniciuskenji7-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
-</li>
 
-<br>
+## Onde me encontrar
 
-<li>
-<a href="mailto:viniciuskenji007@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  viniciuskenji7-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
+[![Linkedin](https://img.shields.io/badge/-viniciuskenji7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-kenji-dos-santos-enoki-097528265/)](https://www.linkedin.com/in/vinicius-kenji-dos-santos-enoki-097528265/)
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+[![Gmail Badge](https://img.shields.io/badge/-viniciuskenji007@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciuskenji007@gmail.com)](mailto:viniciuskenji007@gmail.com)
 
-<div align='center'>
-
-## <b>✨Carpe Diem...</b>
-
-</div>
-<br>
-
----
-
-<br>
+[![GitHub](https://img.shields.io/github/followers/viniciuskenji7?label=follow&style=social)](https://github.com/viniciuskenji7)
