@@ -45,7 +45,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-viniciuskenji7-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-kenji-dos-santos-enoki-097528265/)](https://www.linkedin.com/in/vinicius-kenji-dos-santos-enoki-097528265/)
+[![Linkedin](https://img.shields.io/badge/-viniciuskenji-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-kenji-dos-santos-enoki-097528265/)
 
 [![Gmail Badge](https://img.shields.io/badge/-viniciuskenji007@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciuskenji007@gmail.com)](mailto:viniciuskenji007@gmail.com)
 
