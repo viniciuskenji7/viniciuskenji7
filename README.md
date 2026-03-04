@@ -1,4 +1,4 @@
-# Ola! Eu sou o Vinicius Kenji ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Ola! Eu sou o Vinicius Kenji
 
 ## Sobre mim
 
@@ -32,9 +32,16 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+## Github Stats
+
+<p align="center">
+  <a href="https://github.com/Pranesh-2005/github-readme-stats">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=viniciuskenji7&layout=donut-vertical" />
+  </a>
+  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=viniciuskenji7&show_icons=true&theme=midnight-purple" />
+  </a>
+</p>
 
 ## Onde me encontrar
 
